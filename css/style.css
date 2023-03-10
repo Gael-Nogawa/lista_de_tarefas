@@ -1,0 +1,33 @@
+
+body {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: aliceblue;
+    
+}  
+     
+h1 {
+    background-color: bisque;
+    margin: 20px auto;
+    padding: 10px;
+    text-align: center;
+    font-size: 40px;
+
+}
+
+section {
+       
+    background-color: orange;
+    margin: 20px auto;
+    text-align: center;
+    width: 640px;
+    height: 500px;
+    font-size: 40px;
+}
+
+input {
+    width: 200px;
+    line-height: 1.6em;
+}
+
